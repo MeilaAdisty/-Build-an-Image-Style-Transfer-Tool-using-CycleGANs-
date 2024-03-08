@@ -10,6 +10,7 @@ This project will learn to  build a style transfer tool that can "translate" pho
 - Program : IBM Advance AI
 
 # Tech Stack🖥
+- Python
 - Jupiter Notebook
 
 # [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
